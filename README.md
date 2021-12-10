@@ -1,4 +1,4 @@
-#Color Crush Hair Salon
+#Color Crush Hair Studio
 
 Site under construction
 
