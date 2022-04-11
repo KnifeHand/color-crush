@@ -12,7 +12,7 @@ public class ExampleResourceTest {
     @Test
     public void testHelloEndpoint() {
         given()
-          .when().get("/api/salon")
+          .when().get("/color-crush")
           .then()
              .statusCode(200)
              .body(is("Hello RESTEasy"));
